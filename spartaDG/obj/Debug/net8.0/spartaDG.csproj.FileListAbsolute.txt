@@ -1,0 +1,14 @@
+C:\Users\kim\Desktop\spartaDG\spartaDG\bin\Debug\net8.0\spartaDG.exe
+C:\Users\kim\Desktop\spartaDG\spartaDG\bin\Debug\net8.0\spartaDG.deps.json
+C:\Users\kim\Desktop\spartaDG\spartaDG\bin\Debug\net8.0\spartaDG.runtimeconfig.json
+C:\Users\kim\Desktop\spartaDG\spartaDG\bin\Debug\net8.0\spartaDG.dll
+C:\Users\kim\Desktop\spartaDG\spartaDG\bin\Debug\net8.0\spartaDG.pdb
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.AssemblyInfoInputs.cache
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.AssemblyInfo.cs
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.dll
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\refint\spartaDG.dll
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.pdb
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.genruntimeconfig.cache
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\ref\spartaDG.dll
