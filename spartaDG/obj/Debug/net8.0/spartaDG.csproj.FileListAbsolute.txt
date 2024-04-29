@@ -12,3 +12,4 @@ C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\refint\spartaDG.dll
 C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.pdb
 C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.genruntimeconfig.cache
 C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\ref\spartaDG.dll
+C:\Users\kim\Desktop\spartaDG\spartaDG\obj\Debug\net8.0\spartaDG.sourcelink.json

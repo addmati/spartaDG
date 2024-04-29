@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spartaDG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+314154a1077a2e791aad13181f2aeb9d27433c84")]
 [assembly: System.Reflection.AssemblyProductAttribute("spartaDG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spartaDG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
